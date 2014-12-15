@@ -3603,6 +3603,7 @@ specifications (lines wrapped for display purposes only):
 - Access domains.
 - CDATA.
 - Metadata/Info service doesn't return error code information.
+- Snapshot.
 
 
 
